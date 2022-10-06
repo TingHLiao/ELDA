@@ -1,4 +1,20 @@
-# ELDA: Using-Edges-to-Have-an-Edge-on-Semantic-Segmentation-Based-UDA
+# ELDA
+
+Official implementation of ELDA: Using Edges to Have an Edge on Semantic Segmentation Based UDA
+
+[Ting-Hsuan Liao](),
+[Huang-Ru Liao](),
+[Shan-Ya Yang](),
+[Jie-En Yao](),
+[Li-Yuan Tsao](),
+[Hsu-Shen Liu](),
+[Bo-Wun Cheng](),
+[Chen-Hao Chao](),
+[Chia-Che Chang](),
+[Yi-Chen Lo](),
+[Chun-Yi Lee]()
+<br/>
+[BMVC 2022]() | [arXiv]() |
 
 ## Installation
 ```
