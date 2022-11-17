@@ -68,4 +68,14 @@ Model will be saved under the ```./saved``` directory.
     Change [--model-path] to the corresponding checkpoint path.
   </p>
 </details>
-Due to the file size limitation, the experiment checkpoint will be released on the official website after publishment.
+
+## Citation
+Please cite our work if you find it useful.
+```bibtex
+@inproceedings{eldauda,
+  title={ELDA: Using Edges to Have an Edge on Semantic Segmentation Based UDA},
+  author={Ting-Hsuan Liao, Huang-Ru Liao, Shan-Ya Yang, Jie-En Yao, Li-Yuan Tsao, Hsu-Shen Liu, Bo-Wun Cheng, Chen-Hao Chao, Chia-Che Chang, Yi-Chen Lo and  Chun-Yi Lee},
+  booktitle={BMVC},
+  year={2022}
+}
+```
