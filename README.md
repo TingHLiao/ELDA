@@ -14,7 +14,7 @@ Official implementation of ELDA: Using Edges to Have an Edge on Semantic Segment
 [Yi-Chen Lo](),
 [Chun-Yi Lee]()
 <br/>
-[BMVC 2022]() | [arXiv]() |
+[BMVC 2022](https://bmvc2022.org/programme/papers/) | [arXiv](https://arxiv.org/abs/2211.08888) |
 
 ## Installation
 ```
