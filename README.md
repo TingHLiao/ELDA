@@ -69,6 +69,9 @@ Model will be saved under the ```./saved``` directory.
   </p>
 </details>
 
+## Acknowledgement 
++ [CorDA](https://github.com/qinenergy/corda) is used as our codebase.
+
 ## Citation
 Please cite our work if you find it useful.
 ```bibtex
@@ -79,3 +82,4 @@ Please cite our work if you find it useful.
   year={2022}
 }
 ```
+
